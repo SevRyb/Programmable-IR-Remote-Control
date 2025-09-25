@@ -15,4 +15,29 @@ An infrared programmable computer remote control device. The device is fully por
 ### Circuit diagram
 <img src="images/diagrams/circuit-diagram.svg">
 
+## Usage
+The device can be in 2 main operating modes and the following states.
 
+<img src="images/diagrams/states-diagram.png" width=50% height=50%>
+
+- Main mode:
+  - Remote control ("Default" state).
+- Configuration mode:
+  - "Menu" state.
+  - "Receiver" state
+  - "Saves" state.
+
+<table>
+  <tr>
+    <td><img src="images/showcase/device-state-default.jpg"></td>
+    <td><img src="images/showcase/device-state-menu.jpg"></td>
+    <td><img src="images/showcase/device-state-receiver.jpg"></td>
+    <td><img src="images/showcase/device-state-saves.jpg"></td>
+  </tr>
+  <tr>
+    <th>"Default"</th>
+    <th>"Menu"</th>
+    <th>"Receiver"</th>
+    <th>"Saves"</th>
+  </tr>
+</table>
