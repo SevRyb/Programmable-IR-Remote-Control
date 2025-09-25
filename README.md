@@ -15,6 +15,28 @@ An infrared programmable computer remote control device. The device is fully por
 ### Circuit diagram
 <img src="images/diagrams/circuit-diagram.svg">
 
+## Hardware
+### PCB
+<table>
+  <tr>
+    <th>Top layer</th>
+    <th>Bottom layer</th>
+  </tr>
+  <tr>
+    <td><img src="images/pcb/pcb-top-layer.png"></td>
+    <td><img src="images/pcb/pcb-bottom-layer.png"></td>
+  </tr>
+</table>
+
+3D PCB renders from KiCad
+<p align="center">
+  <img src="images/pcb/pcb-renders.png">
+</p>
+
+Manufactured boards
+
+<img src="images/pcb/pcb-manufactured.jpg"  width=55% height=55%>
+
 ## Usage
 The device can be in 2 main operating modes and the following states.
 
@@ -41,3 +63,5 @@ The device can be in 2 main operating modes and the following states.
     <th>"Saves"</th>
   </tr>
 </table>
+
+## Tests
