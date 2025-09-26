@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1126 732" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
-    <g id="Artboard1" transform="matrix(0.977736,0,0,0.899921,-11.3987,-8.71552)">
+<svg width="100%" height="100%" viewBox="0 0 1183 786" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="Artboard1" transform="matrix(1.02697,0,0,0.965671,-11.9727,-9.35229)">
         <rect x="11.658" y="9.685" width="1151.01" height="813.11" style="fill:none;"/>
         <clipPath id="_clip1">
             <rect x="11.658" y="9.685" width="1151.01" height="813.11"/>
@@ -10,7 +10,7 @@
             <g transform="matrix(1.5701,0,0,1.33688,-115.422,-44.1636)">
                 <rect x="80.937" y="40.279" width="733.077" height="608.213" style="fill:white;"/>
             </g>
-            <g transform="matrix(1,0,0,0.940902,-99.197,-52.7671)">
+            <g transform="matrix(0.952061,0,0,0.876838,-65.7742,-21.2403)">
                 <g transform="matrix(1.4325,0,0,1.65412,-195.806,-228.465)">
                     <g transform="matrix(0.696499,0,0,-0.696499,19.8496,619.802)">
                         <rect x="780" y="275" width="175" height="320" style="fill:white;stroke:black;stroke-width:0.71px;"/>
