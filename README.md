@@ -40,7 +40,7 @@ Manufactured boards
 ## Usage
 The device can be in 2 main operating modes and the following states.
 
-<img src="images/diagrams/states-diagram.png" width=50% height=50%>
+<img src="images/diagrams/states-diagram.svg" width=50% height=50%>
 
 - Main mode:
   - Remote control ("Default" state).
@@ -63,5 +63,13 @@ The device can be in 2 main operating modes and the following states.
     <th>"Saves"</th>
   </tr>
 </table>
+
+## Firmware
+The firmware is written in STM32CubeIDE environment and using STM32CubeMX tool.
+
+External dependencies:
+- [IRMP](https://www.mikrocontroller.net/articles/IRMP_-_english)
+- [IRSND](https://www.mikrocontroller.net/articles/IRSND_-_english)
+- [ssd1306](https://github.com/afiskon/stm32-ssd1306)
 
 ## Tests
