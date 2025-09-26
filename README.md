@@ -5,6 +5,15 @@ An infrared programmable computer remote control device. The device is fully por
   <img src="images/showcase/device-overview.png" width=50% height=50%>
 </p>
 
+### Features
+- Recognition of most popular IR remote control protocols (NEC, RC6, RC5, SIRCS, SAMSUNG…) using modulation at 36, 38, 40 kHz frequencies.
+- Up to 9 programmable buttons.
+- Up to 10 banks of button bindings.
+
+<p align="center">
+  <img src="images/showcase/preview.png">
+</p>
+
 ## Architecture
 ### Structure diagram
 <img src="images/diagrams/structure-diagram.svg">
