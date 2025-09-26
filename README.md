@@ -25,6 +25,8 @@ An infrared programmable computer remote control device. The device is fully por
 <img src="images/diagrams/circuit-diagram.svg">
 
 ## Hardware
+Used EDA for developing - KiCad.
+
 ### PCB
 <table>
   <tr>
@@ -37,13 +39,12 @@ An infrared programmable computer remote control device. The device is fully por
   </tr>
 </table>
 
-3D PCB renders from KiCad
+PCB 3D renders from KiCad
 <p align="center">
   <img src="images/pcb/pcb-renders.png">
 </p>
 
-Manufactured boards
-
+<p align="center">Manufactured boards</p>
 <p align="center">
   <img src="images/pcb/pcb-manufactured.jpg"  width=55% height=55%>
 </p>
