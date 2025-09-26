@@ -35,7 +35,9 @@ An infrared programmable computer remote control device. The device is fully por
 
 Manufactured boards
 
-<img src="images/pcb/pcb-manufactured.jpg"  width=55% height=55%>
+<p align="center">
+  <img src="images/pcb/pcb-manufactured.jpg"  width=55% height=55%>
+</p>
 
 ## Usage
 The device can be in 2 main operating modes and the following states.
@@ -73,3 +75,36 @@ External dependencies:
 - [ssd1306](https://github.com/afiskon/stm32-ssd1306)
 
 ## Tests
+Some tests how it works...
+
+<p align="center">
+  <img src="images/tests/test-stand.jpg">
+</p>
+
+I connected osciloscope probe to the infrared LED to see how signal is modulated (green). Demodulated signal (yellow) I pick up from infrared receiver. 
+
+In this test IR protocol is RC6. Corresponding the modulation frequency is 36 kHz, biphase coding.
+
+<table>
+  <tr>
+    <td><img src="images/tests/osciloscope-signal-mod-demod.jpg"></td>
+    <td><img src="images/tests/osciloscope-signal-mod.jpg"></td>
+  </tr>
+  <tr>
+    <th>100 us/div</th>
+    <th>1 ms/div</th>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/tests/packet-analysis.png"></td>
+  </tr>
+  <tr>
+    <th colspan="2">Data frame, 2 ms/div</th>
+  </tr>
+</table>
+
+## Showcase
+Yes, I really needed that back case to provide a safe comfortable place for Li-poly battery. It's definitely the most dangerous part of the device:)
+
+<p align="center">
+  <img src="images/showcase/device-box.jpg"  width=55% height=55%>
+</p>
